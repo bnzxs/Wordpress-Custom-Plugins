@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: MetaTag Auditor
- * Plugin URI: https://github.com/bnzxs/Wordpress-Custom-Plugins/tree/main/advanced-content-search
+ * Plugin URI: https://github.com/bnzxs/Wordpress-Custom-Plugins/tree/main/metatag-auditor
  * Description: Advanced SEO auditor with a premium dashboard. Detects issues with titles, meta descriptions, H1 tags, canonicals, noindex, and social media tags (OG/Twitter). Features real-time batch scanning, health scoring, and data exports.
  * Version: 2.1.0
  * Author: Carlou Benedict Luchavez
